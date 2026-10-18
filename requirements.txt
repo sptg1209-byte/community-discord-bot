@@ -1,0 +1,6 @@
+discord.py[voice]>=2.4,<3
+python-dotenv>=1,<2
+yt-dlp>=2024.8.6
+captcha>=0.7,<1
+pillow>=10,<13
+edge-tts>=7,<9
